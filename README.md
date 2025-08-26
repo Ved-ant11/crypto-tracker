@@ -45,7 +45,7 @@
 ### 📦 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/crypto-tracker.git
+git clone https://github.com/Ved-ant11/crypto-tracker.git
 cd crypto-tracker
 
 # Install dependencies
