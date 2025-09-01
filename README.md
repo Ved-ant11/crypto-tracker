@@ -40,7 +40,7 @@
 ### ✅ Prerequisites
 - [Node.js](https://nodejs.org/) (v16 or later)  
 - npm or yarn  
-- Free [RapidAPI CoinRanking](https://rapidapi.com/) API key  
+- Free [RapidAPI CoinRanking](https://rapidapi.com/Coinranking/api/coinranking1) API key  
 
 ### 📦 Installation
 ```bash
@@ -56,4 +56,5 @@ npm install
 # RapidAPI Credentials
 VITE_RAPIDAPI_KEY=your_rapidapi_key_here
 VITE_RAPIDAPI_HOST=coinranking1.p.rapidapi.com
+VITE_RAPIDAPI_URL=https://rapidapi.com/Coinranking/api/coinranking1
 
